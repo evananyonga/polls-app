@@ -1,1 +1,4 @@
 penv/
+db.sqlite3
+*/__pycache__/*
+pollsapi/migrations/__pycache__/*
